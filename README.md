@@ -3,7 +3,13 @@
     <img src="doc/logo.jpg", width="400">
 </div>
 
-
+## Map
+```python
+alphapose_map = [16, 14, 10, 11, 13,
+                 15, 12, 0, 0, 0, 
+                 10, 8, 6, 5, 7, 
+                 9, 1]
+```
 
 ## AlphaPose
 [Alpha Pose](http://www.mvig.org/research/alphapose.html) is an accurate multi-person pose estimator, which is the **first real-time** open-source system that achieves **70+ mAP (72.3 mAP)** on COCO dataset and **80+ mAP (82.1 mAP)** on MPII dataset.** 
